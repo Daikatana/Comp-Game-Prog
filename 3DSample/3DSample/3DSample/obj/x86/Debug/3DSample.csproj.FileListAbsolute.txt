@@ -1,0 +1,9 @@
+C:\Users\Mike\Documents\UHCL\Fall 2014\CSCI 4362-Comp Game Programming\3DSample\3DSample\3DSample\3DSample\obj\x86\Debug\3DSample.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\UHCL\Fall 2014\CSCI 4362-Comp Game Programming\3DSample\3DSample\3DSample\3DSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mike\Documents\UHCL\Fall 2014\CSCI 4362-Comp Game Programming\3DSample\3DSample\3DSample\3DSample\bin\x86\Debug\Content\ammo.xnb
+C:\Users\Mike\Documents\UHCL\Fall 2014\CSCI 4362-Comp Game Programming\3DSample\3DSample\3DSample\3DSample\bin\x86\Debug\Content\spaceship.xnb
+C:\Users\Mike\Documents\UHCL\Fall 2014\CSCI 4362-Comp Game Programming\3DSample\3DSample\3DSample\3DSample\bin\x86\Debug\Content\Trees.xnb
+C:\Users\Mike\Documents\UHCL\Fall 2014\CSCI 4362-Comp Game Programming\3DSample\3DSample\3DSample\3DSample\bin\x86\Debug\3DSample.exe
+C:\Users\Mike\Documents\UHCL\Fall 2014\CSCI 4362-Comp Game Programming\3DSample\3DSample\3DSample\3DSample\bin\x86\Debug\3DSample.pdb
+C:\Users\Mike\Documents\UHCL\Fall 2014\CSCI 4362-Comp Game Programming\3DSample\3DSample\3DSample\3DSample\obj\x86\Debug\3DSample.exe
+C:\Users\Mike\Documents\UHCL\Fall 2014\CSCI 4362-Comp Game Programming\3DSample\3DSample\3DSample\3DSample\obj\x86\Debug\3DSample.pdb
